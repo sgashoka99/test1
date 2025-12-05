@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "fact.h" 
+#include <stdio.h> 
 
 void factorial() {
     int n, i;
