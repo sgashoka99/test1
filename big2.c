@@ -2,14 +2,14 @@
 
 void biggest2()
 {
-    int x,y;
+    int a,b;
     printf("Enter the two numbers \n");
     scanf("%d%d",&x,&y);
-    if(x>y)
+    if(a>b)
     { 
-        printf("x is greater than y\n");
+        printf("a is greater than b\n");
     }else
 {
-    printf("y is greater than x\n");
+    printf("b is greater than a\n");
 }
 }
